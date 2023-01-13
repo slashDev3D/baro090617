@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'nanumfont';
+					src: url('/wp-content/uploads/useanyfont/8188NanumFont.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8188NanumFont.woff') format('woff');
+					font-display: auto;
+				}
+
+				.nanumfont{font-family: 'nanumfont' !important;}
+
+		

@@ -1,0 +1,50 @@
+a.kboard-biz-community-button-small, input.kboard-biz-community-button-small, button.kboard-biz-community-button-small {
+    
+  color: #fff!important;
+    background: #2F78FF !important;
+  border: 1px solid #2F78FF !important; }
+a.kboard-biz-community-button-search, input.kboard-biz-community-button-search, button.kboard-biz-community-button-search {
+
+    color: white !important;
+    background: #2F78FF !important;
+
+}
+.kboard-biz-community-poweredby {
+    float: left;
+    display: none;
+    padding-bottom: 15px;
+    width: 100%;
+    font-size: 13px;
+}
+
+a, .navbar .dropdown-menu li:hover > a, .navbar .dropdown-menu li:focus > a, .navbar .dropdown-menu li:active > a, .navbar .navbar-nav > li .dropdown-menu li:hover > a, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:hover, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:focus, a:hover, .card-blog a.moretag:hover, .card-blog a.more-link:hover, .widget a:hover, .has-text-color.has-accent-color, p.has-text-color a {
+    color: #3B3B3B;
+}
+
+.navbar.hestia_left>.container {
+ 
+    width: 1400px;
+}
+.navbar .navbar-nav>li a {
+ 
+    font-size: 16px;
+ 
+}
+footer.footer.footer-black {
+  
+    display: none;
+}
+.kboard-inside-ask-poweredby {
+
+    display: none;
+}
+.kboard-hwaikeul-gallery-poweredby {
+  
+    display: none;
+ 
+}
+#kboard-hwaikeul-gallery-list .kboard-category .kboard-category-list li a {
+
+    font-size: 20px;
+ 
+}
